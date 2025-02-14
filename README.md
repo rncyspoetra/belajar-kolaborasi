@@ -1,7 +1,4 @@
 # belajar-kolaborasi  
-===
-Update 1  
-===  
-Update 2  
-===  
-Update 3
+<b>Update 1</b>  
+<b>Update 2</b>  
+<b>Update 3</b>  
